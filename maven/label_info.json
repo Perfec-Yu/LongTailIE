@@ -1,0 +1,511 @@
+{
+    "event": {
+        "Know": {
+            "id": 1
+        },
+        "Warning": {
+            "id": 2
+        },
+        "Catastrophe": {
+            "id": 3
+        },
+        "Placing": {
+            "id": 4
+        },
+        "Causation": {
+            "id": 5
+        },
+        "Arriving": {
+            "id": 6
+        },
+        "Sending": {
+            "id": 7
+        },
+        "Protest": {
+            "id": 8
+        },
+        "Preventing_or_letting": {
+            "id": 9
+        },
+        "Motion": {
+            "id": 10
+        },
+        "Damaging": {
+            "id": 11
+        },
+        "Destroying": {
+            "id": 12
+        },
+        "Death": {
+            "id": 13
+        },
+        "Perception_active": {
+            "id": 14
+        },
+        "Presence": {
+            "id": 15
+        },
+        "Influence": {
+            "id": 16
+        },
+        "Receiving": {
+            "id": 17
+        },
+        "Check": {
+            "id": 18
+        },
+        "Hostile_encounter": {
+            "id": 19
+        },
+        "Killing": {
+            "id": 20
+        },
+        "Conquering": {
+            "id": 21
+        },
+        "Releasing": {
+            "id": 22
+        },
+        "Attack": {
+            "id": 23
+        },
+        "Earnings_and_losses": {
+            "id": 24
+        },
+        "Choosing": {
+            "id": 25
+        },
+        "Traveling": {
+            "id": 26
+        },
+        "Recovering": {
+            "id": 27
+        },
+        "Using": {
+            "id": 28
+        },
+        "Coming_to_be": {
+            "id": 29
+        },
+        "Cause_to_be_included": {
+            "id": 30
+        },
+        "Process_start": {
+            "id": 31
+        },
+        "Change_event_time": {
+            "id": 32
+        },
+        "Reporting": {
+            "id": 33
+        },
+        "Bodily_harm": {
+            "id": 34
+        },
+        "Suspicion": {
+            "id": 35
+        },
+        "Statement": {
+            "id": 36
+        },
+        "Cause_change_of_position_on_a_scale": {
+            "id": 37
+        },
+        "Coming_to_believe": {
+            "id": 38
+        },
+        "Expressing_publicly": {
+            "id": 39
+        },
+        "Request": {
+            "id": 40
+        },
+        "Control": {
+            "id": 41
+        },
+        "Supporting": {
+            "id": 42
+        },
+        "Defending": {
+            "id": 43
+        },
+        "Building": {
+            "id": 44
+        },
+        "Military_operation": {
+            "id": 45
+        },
+        "Self_motion": {
+            "id": 46
+        },
+        "GetReady": {
+            "id": 47
+        },
+        "Forming_relationships": {
+            "id": 48
+        },
+        "Becoming_a_member": {
+            "id": 49
+        },
+        "Action": {
+            "id": 50
+        },
+        "Removing": {
+            "id": 51
+        },
+        "Surrendering": {
+            "id": 52
+        },
+        "Agree_or_refuse_to_act": {
+            "id": 53
+        },
+        "Participation": {
+            "id": 54
+        },
+        "Deciding": {
+            "id": 55
+        },
+        "Education_teaching": {
+            "id": 56
+        },
+        "Emptying": {
+            "id": 57
+        },
+        "Getting": {
+            "id": 58
+        },
+        "Besieging": {
+            "id": 59
+        },
+        "Creating": {
+            "id": 60
+        },
+        "Process_end": {
+            "id": 61
+        },
+        "Body_movement": {
+            "id": 62
+        },
+        "Expansion": {
+            "id": 63
+        },
+        "Telling": {
+            "id": 64
+        },
+        "Change": {
+            "id": 65
+        },
+        "Legal_rulings": {
+            "id": 66
+        },
+        "Bearing_arms": {
+            "id": 67
+        },
+        "Giving": {
+            "id": 68
+        },
+        "Name_conferral": {
+            "id": 69
+        },
+        "Arranging": {
+            "id": 70
+        },
+        "Use_firearm": {
+            "id": 71
+        },
+        "Committing_crime": {
+            "id": 72
+        },
+        "Assistance": {
+            "id": 73
+        },
+        "Surrounding": {
+            "id": 74
+        },
+        "Quarreling": {
+            "id": 75
+        },
+        "Expend_resource": {
+            "id": 76
+        },
+        "Motion_directional": {
+            "id": 77
+        },
+        "Bringing": {
+            "id": 78
+        },
+        "Communication": {
+            "id": 79
+        },
+        "Containing": {
+            "id": 80
+        },
+        "Manufacturing": {
+            "id": 81
+        },
+        "Social_event": {
+            "id": 82
+        },
+        "Robbery": {
+            "id": 83
+        },
+        "Competition": {
+            "id": 84
+        },
+        "Writing": {
+            "id": 85
+        },
+        "Rescuing": {
+            "id": 86
+        },
+        "Judgment_communication": {
+            "id": 87
+        },
+        "Change_tool": {
+            "id": 88
+        },
+        "Hold": {
+            "id": 89
+        },
+        "Being_in_operation": {
+            "id": 90
+        },
+        "Recording": {
+            "id": 91
+        },
+        "Carry_goods": {
+            "id": 92
+        },
+        "Cost": {
+            "id": 93
+        },
+        "Departing": {
+            "id": 94
+        },
+        "GiveUp": {
+            "id": 95
+        },
+        "Change_of_leadership": {
+            "id": 96
+        },
+        "Escaping": {
+            "id": 97
+        },
+        "Aiming": {
+            "id": 98
+        },
+        "Hindering": {
+            "id": 99
+        },
+        "Preserving": {
+            "id": 100
+        },
+        "Create_artwork": {
+            "id": 101
+        },
+        "Openness": {
+            "id": 102
+        },
+        "Connect": {
+            "id": 103
+        },
+        "Reveal_secret": {
+            "id": 104
+        },
+        "Response": {
+            "id": 105
+        },
+        "Scrutiny": {
+            "id": 106
+        },
+        "Lighting": {
+            "id": 107
+        },
+        "Criminal_investigation": {
+            "id": 108
+        },
+        "Hiding_objects": {
+            "id": 109
+        },
+        "Confronting_problem": {
+            "id": 110
+        },
+        "Renting": {
+            "id": 111
+        },
+        "Breathing": {
+            "id": 112
+        },
+        "Patrolling": {
+            "id": 113
+        },
+        "Arrest": {
+            "id": 114
+        },
+        "Convincing": {
+            "id": 115
+        },
+        "Commerce_sell": {
+            "id": 116
+        },
+        "Cure": {
+            "id": 117
+        },
+        "Temporary_stay": {
+            "id": 118
+        },
+        "Dispersal": {
+            "id": 119
+        },
+        "Collaboration": {
+            "id": 120
+        },
+        "Extradition": {
+            "id": 121
+        },
+        "Change_sentiment": {
+            "id": 122
+        },
+        "Commitment": {
+            "id": 123
+        },
+        "Commerce_pay": {
+            "id": 124
+        },
+        "Filling": {
+            "id": 125
+        },
+        "Becoming": {
+            "id": 126
+        },
+        "Achieve": {
+            "id": 127
+        },
+        "Practice": {
+            "id": 128
+        },
+        "Cause_change_of_strength": {
+            "id": 129
+        },
+        "Supply": {
+            "id": 130
+        },
+        "Cause_to_amalgamate": {
+            "id": 131
+        },
+        "Scouring": {
+            "id": 132
+        },
+        "Violence": {
+            "id": 133
+        },
+        "Reforming_a_system": {
+            "id": 134
+        },
+        "Come_together": {
+            "id": 135
+        },
+        "Wearing": {
+            "id": 136
+        },
+        "Cause_to_make_progress": {
+            "id": 137
+        },
+        "Legality": {
+            "id": 138
+        },
+        "Employment": {
+            "id": 139
+        },
+        "Rite": {
+            "id": 140
+        },
+        "Publishing": {
+            "id": 141
+        },
+        "Adducing": {
+            "id": 142
+        },
+        "Exchange": {
+            "id": 143
+        },
+        "Ratification": {
+            "id": 144
+        },
+        "Sign_agreement": {
+            "id": 145
+        },
+        "Commerce_buy": {
+            "id": 146
+        },
+        "Imposing_obligation": {
+            "id": 147
+        },
+        "Rewards_and_punishments": {
+            "id": 148
+        },
+        "Institutionalization": {
+            "id": 149
+        },
+        "Testing": {
+            "id": 150
+        },
+        "Ingestion": {
+            "id": 151
+        },
+        "Labeling": {
+            "id": 152
+        },
+        "Kidnapping": {
+            "id": 153
+        },
+        "Submitting_documents": {
+            "id": 154
+        },
+        "Prison": {
+            "id": 155
+        },
+        "Justifying": {
+            "id": 156
+        },
+        "Emergency": {
+            "id": 157
+        },
+        "Terrorism": {
+            "id": 158
+        },
+        "Vocalizations": {
+            "id": 159
+        },
+        "Risk": {
+            "id": 160
+        },
+        "Resolve_problem": {
+            "id": 161
+        },
+        "Revenge": {
+            "id": 162
+        },
+        "Limiting": {
+            "id": 163
+        },
+        "Research": {
+            "id": 164
+        },
+        "Having_or_lacking_access": {
+            "id": 165
+        },
+        "Theft": {
+            "id": 166
+        },
+        "Incident": {
+            "id": 167
+        },
+        "Award": {
+            "id": 168
+        }
+    },
+    "role": {},
+    "relation": {},
+    "entity": {}
+}
